@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451063065343",
+    "project_id": "flexplay-685e5",
+    "storage_bucket": "flexplay-685e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451063065343:android:21b7c006996e58bd943aca",
+        "android_client_info": {
+          "package_name": "com.example.turftown_homepage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuTekMhO_8FVG8tYvvyk6FfiZFz_RYnUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

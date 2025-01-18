@@ -1,0 +1,56 @@
+name: turf_shop_page
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0-323.2.beta
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets\accessories.png
+    - assets\racket.jpg
+    - assets\sneakers.png
+    - assets\booksports.png
+    - assets\badminton.png
+    - assets\cricket.png
+    - assets\football.png
+    - assets\bails.jpg
+    - assets\shuttles.webp
+    - assets\niviaball.webp
+    - assets\racketsimg.jpg
+    - assets\kit.jpg
+    - assets\dscbat.jpeg
+    - assets\bat.webp
+    - assets\tennisball.jpeg
+    - assets\leatherball.webp
+    - assets\helmet.jpg
+    - assets\gloves.jpg
+    - assets\shoes.jpg
+    - assets\bshoes.jpg
+    - assets\cricketshoes.jpg
+    - assets\bmshoes.jpg
+    - assets\ssbat.jpg
+    - assets\jersey.jpg
+    - assets\messyjersey.jpg
+    - assets\ronaldo.jpg
+    - assets\protectionkit.jpg
+    - assets\niviafootball.jpg
+    - assets\fbkit.jpg
+    - assets\fb-equipment.jpg
+    - assets\grip1.jpeg
+    - assets\grip2.jpg
+    - assets\badmrackets.jpg
+    - assets\shuttlecock1.jpg
+    - assets\btkit.jpg
+    - assets\btnet.webp

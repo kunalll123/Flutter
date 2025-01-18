@@ -1,0 +1,20 @@
+name: powerplay_demo_site_page
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0-323.2.beta
+
+dependencies:
+  flutter:
+    sdk: flutter
+  table_calendar: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

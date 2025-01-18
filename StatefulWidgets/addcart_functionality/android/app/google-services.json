@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247314959151",
+    "project_id": "joinhost-functionality",
+    "storage_bucket": "joinhost-functionality.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247314959151:android:a100348ade3bc91e526fda",
+        "android_client_info": {
+          "package_name": "com.example.addcart_functionality"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Pz9E4a0kQ08IFLgYlvbR4KKxnjt_-1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
